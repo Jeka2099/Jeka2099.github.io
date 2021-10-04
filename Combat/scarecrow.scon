@@ -1,0 +1,327 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"gline": [],
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 2
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -55,
+										"abs_y": -127,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "tors",
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -22.999999999999986,
+										"abs_y": -172,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								]
+							}
+						]
+					},
+					"name": "NewAnimation",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 0,
+										"folder": 0,
+										"x": -55,
+										"y": 127
+									},
+									"spin": 0
+								}
+							],
+							"name": "tors",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 263.80609503284904,
+										"file": 1,
+										"folder": 0,
+										"x": 61.82688552108632,
+										"y": 18.221357233080887
+									},
+									"spin": 0
+								}
+							],
+							"name": "head",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 96.19390496715096,
+										"x": 1.7857142857142856,
+										"y": 112.49999999999999
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_000",
+							"obj": 2,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"gline": [],
+					"id": 1,
+					"interval": 100,
+					"length": 500,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 2
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -55,
+										"abs_y": -127,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "tors",
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 22.616888775822076,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -43.975664172219595,
+										"abs_y": -157.8924869805875,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 2
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 251
+							}
+						]
+					},
+					"name": "NewAnimation_000",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 0,
+										"folder": 0,
+										"x": -55,
+										"y": 127
+									},
+									"spin": 0
+								}
+							],
+							"name": "tors",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 263.80609503284904,
+										"file": 1,
+										"folder": 0,
+										"x": 61.82688552108632,
+										"y": 18.221357233080887
+									},
+									"spin": 0
+								}
+							],
+							"name": "head",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 118.81079374297306,
+										"x": 1.7857142857142856,
+										"y": 112.49999999999999
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 72.01266534793854,
+										"x": 1.7857142857142856,
+										"y": 112.49999999999999
+									},
+									"id": 1,
+									"time": 251
+								}
+							],
+							"name": "bone_000",
+							"obj": 2,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "entity_000",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_tors",
+					"realname": "tors",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_head",
+					"realname": "head",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bone_000",
+					"realname": "bone_000",
+					"type": "bone",
+					"w": 57.92744020826082
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 136,
+					"id": 0,
+					"name": "tors.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 171
+				},
+				{
+					"height": 66,
+					"id": 1,
+					"name": "head.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 55
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r4.1",
+	"scon_version": "1.0"
+}
